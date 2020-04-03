@@ -1,0 +1,49 @@
+.notificationContainer {
+  margin-top: 300px;
+}
+
+.notificationBtn1,
+.notificationBtn2,
+.notificationBtn3 {
+  padding: 15px 122px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(14, 1, 2);
+  width: 500px;
+  height: 120px;
+  box-shadow: 0 12px 16px 0 rgba(65, 49, 49, 0.24),
+    0 17px 50px 0 rgba(77, 53, 53, 0.15);
+  margin-top: 50px;
+  border: none;
+  border-radius: 8px;
+  font-family: Montserrat;
+  font-size: 15px;
+  text-align: left;
+}
+.notificationBtn1 {
+  background: url('../../assets/main-assets/bell.svg') no-repeat 40px;
+  background-size: 50px;
+}
+.notificationBtn2 {
+  background: url('../../assets/magnetic_60px.png') no-repeat 40px;
+}
+
+.notificationBtn3 {
+  background: url('../../assets/ios_development_60px.png') no-repeat 40px;
+}
+
+.notificationBtn1:hover,
+.notificationBtn2:hover,
+.notificationBtn3:hover {
+  background-color: #be0b0b;
+  color: white;
+  width: 510px;
+  height: 130px;
+  transition: color 0.5s;
+  transition: background-color 0.5s;
+}
+
+.msgParagraph {
+    font-family: Montserrat-Light;
+    text-align: left;
+    // align-items: left;
+}

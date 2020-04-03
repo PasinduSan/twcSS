@@ -1,0 +1,180 @@
+.salesImageHome {
+    height: 60px;
+    margin-left: 30px;
+    margin-top: 25px;
+  }
+
+.navbarContainer {
+    display: flex;
+}
+
+.navbarHome {
+    // display: flex;
+    display: inline-block;
+    padding: 40px 0px;
+    // float: left;
+    // position: absolute;
+    // z-index: 1;
+    // background-color: transparent;
+    
+  }
+
+.navbarLeft {
+    background-color: white;
+    flex: 2;
+    // margin-left: 200px;
+}
+
+.navbarRight {
+    // width: 800px;
+    background-color: #4F0911;
+    flex: 3;
+}  
+  
+.navbarLeft a {
+    color: #4F0911;
+}
+
+.navbarRight a {
+    color: white;
+}
+  
+.navbarRight ul {
+    margin-left: -45px;
+    // float: left;
+}
+
+.navbarLeft ul {
+    float: right;
+    // width: 300px;
+    // margin-left: 290px;
+    // padding-right: 200px;
+}
+
+.navbarHome ul {
+    font-family: Montserrat;
+    display: flex;
+    list-style: none;
+    // margin-left: 20px;
+    // position: absolute;
+}
+  
+.navbarHome a {
+    // color: rgb(7, 0, 0);
+    // text-align: center;
+    padding: 15px;
+    margin: 15px;
+    // padding: 25%;
+    // margin: 15px;
+}
+
+@media only screen and (max-width: 991px) {
+  
+    .salesImageHome {
+        height: 40px;
+    }
+
+    .navbarRight {
+        background-color: white;
+    }
+
+    .navbarRight a {
+        color: #4F0911;
+    }
+
+    .navbarHome a {
+        // color: rgb(7, 0, 0);
+        // text-align: center;
+        padding: 5px;
+        margin: 5px;
+        // padding: 25%;
+        // margin: 15px;
+    }
+
+    .navbarLeft ul {
+        margin: 0 0 0 0;
+        padding: 0 0 0 0;
+        // float: left;
+        // width: 300px;
+        // margin-left: 290px;
+        // padding-right: 200px;
+    }
+}
+
+@media only screen and (max-width: 991px) and (min-width: 810px) {
+  
+    .salesImageHome {
+        height: 50px;
+    }
+
+    // .navbarRight {
+    //     background-color: white;
+    // }
+
+    // .navbarRight a {
+    //     color: #4F0911;
+    // }
+
+    .navbarHome a {
+        // color: rgb(7, 0, 0);
+        // text-align: center;
+        padding: 15px;
+        margin: 15px;
+        // padding: 25%;
+        // margin: 15px;
+    }
+
+    // .navbarLeft ul {
+    //     float: left;
+    //     // width: 300px;
+    //     // margin-left: 290px;
+    //     // padding-right: 200px;
+    // }
+}
+
+@media only screen and (max-width: 810px) and (min-width: 660px) { 
+    .salesImageHome {
+        height: 40px;
+    }
+   
+    .navbarHome a {
+        // color: rgb(7, 0, 0);
+        // text-align: center;
+        padding: 9px;
+        margin: 9px;
+        // padding: 25%;
+        // margin: 15px;
+    }
+}
+
+@media only screen and (max-width: 660px) and (min-width: 550px){ 
+    .salesImageHome {
+        height: 35px;
+    }
+
+    .navbarHome a {
+        // color: rgb(7, 0, 0);
+        // text-align: center;
+        padding: 3px;
+        margin: 3px;
+        // padding: 25%;
+        // margin: 15px;
+    }
+}
+
+@media only screen and (max-width: 550px) { 
+
+    .salesImageHome {
+        height: 35px;
+    }
+
+    .navbarHome a {
+        // color: rgb(7, 0, 0);
+        // text-align: center;
+        padding: 3px;
+        margin: 3px;
+        font-size: 13px;
+        // padding: 25%;
+        // margin: 15px;
+    }
+}

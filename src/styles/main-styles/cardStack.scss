@@ -1,0 +1,52 @@
+
+$card-bg: white;
+$card-border-color: #C4B1B1;
+$card-border-width: 0.5px;
+$card-border-radius: 15px;
+$card-spacer-x: 1;
+
+// when insert position absolute here for animation social
+// media icons get upset
+.cardContainerHome {
+  margin-top: 70px;
+  //  padding: 140px 90px 15px 90px;
+  // position: absolute;
+}
+
+.cardHome {
+  // position: absolute;
+  // width: 300px;
+  // top: 80px;
+  // display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: $card-bg;
+  background-clip: border-box;
+  border: $card-border-width solid $card-border-color;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: $card-border-radius;
+  padding: 15% 0px;
+  // justify-content: center;
+
+}
+
+
+
+.card5 {
+  top: 60px;
+  width: 50%;
+  margin-left: 25%;
+  z-index: 5;
+  // background-color: #512861;
+}
+
+
+
+
+.card-body {
+  // Enable `flex-grow: 1` for decks and groups so that card blocks take up
+  // as much space as possible, ensuring footers are aligned to the bottom.
+  flex: 1 1 auto;
+  padding: $card-spacer-x;
+}
