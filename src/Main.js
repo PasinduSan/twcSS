@@ -8,7 +8,7 @@ import MessageSignUp from './components/layout/main-layout/MessageSignUp.js';
 import SignUpForm from './components/layout/main-layout/SignUpForm.js';
 
 import './styles/main-styles/sales.scss';
-import NavbarHome from './components/layout/NavbarHome';
+//import NavbarHome from './components/layout/NavbarHome';
 // import './styles/bootstrap/bootstrap.scss';
 
 const App = () => {
