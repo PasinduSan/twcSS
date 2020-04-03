@@ -8,13 +8,13 @@ import Main from './Main';
 
 const Home = () => {
   return (
-    <Switch>
-      <HashRouter>
+    <HashRouter>
+      <Switch>
         <Navbar />
         <Route exact path='/Partner' component={Partner} />
         <Route exact path='/Home' component={Main} />
-      </HashRouter>
-    </Switch>
+      </Switch>
+    </HashRouter>
   );
 };
 export default Home;
