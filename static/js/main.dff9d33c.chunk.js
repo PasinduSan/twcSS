@@ -1,0 +1,2 @@
+(this.webpackJsonpsalesuit_web=this.webpackJsonpsalesuit_web||[]).push([[0],{3:function(e,t,n){e.exports=n(8)},8:function(e,t,n){"use strict";n.r(t);var r=n(0),a=n.n(r),l=n(2);var c=function(){return a.a.createElement("div",null,a.a.createElement("p",null,"TWC."),a.a.createElement("a",{className:"App-link",href:"https://reactjs.org",target:"_blank",rel:"noopener noreferrer"},"Learn React"))};n.n(l).a.render(a.a.createElement(a.a.StrictMode,null,a.a.createElement(c,null)),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.dff9d33c.chunk.js.map

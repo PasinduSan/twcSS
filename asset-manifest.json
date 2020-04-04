@@ -1,34 +1,19 @@
 {
   "files": {
-    "main.css": "/twcSS/static/css/main.a933e099.chunk.css",
-    "main.js": "/twcSS/static/js/main.9a830cea.chunk.js",
-    "main.js.map": "/twcSS/static/js/main.9a830cea.chunk.js.map",
+    "main.js": "/twcSS/static/js/main.dff9d33c.chunk.js",
+    "main.js.map": "/twcSS/static/js/main.dff9d33c.chunk.js.map",
     "runtime-main.js": "/twcSS/static/js/runtime-main.5c0ef560.js",
     "runtime-main.js.map": "/twcSS/static/js/runtime-main.5c0ef560.js.map",
-    "static/js/2.1332e454.chunk.js": "/twcSS/static/js/2.1332e454.chunk.js",
-    "static/js/2.1332e454.chunk.js.map": "/twcSS/static/js/2.1332e454.chunk.js.map",
+    "static/js/2.07ac56d2.chunk.js": "/twcSS/static/js/2.07ac56d2.chunk.js",
+    "static/js/2.07ac56d2.chunk.js.map": "/twcSS/static/js/2.07ac56d2.chunk.js.map",
     "index.html": "/twcSS/index.html",
-    "precache-manifest.a80993cdc5bb78b4f907265eef5e6e71.js": "/twcSS/precache-manifest.a80993cdc5bb78b4f907265eef5e6e71.js",
+    "precache-manifest.5c7f0b4677ec8d477df8de9c6862f830.js": "/twcSS/precache-manifest.5c7f0b4677ec8d477df8de9c6862f830.js",
     "service-worker.js": "/twcSS/service-worker.js",
-    "static/css/main.a933e099.chunk.css.map": "/twcSS/static/css/main.a933e099.chunk.css.map",
-    "static/js/2.1332e454.chunk.js.LICENSE.txt": "/twcSS/static/js/2.1332e454.chunk.js.LICENSE.txt",
-    "static/media/Gotham-Medium.otf": "/twcSS/static/media/Gotham-Medium.27a90e87.otf",
-    "static/media/Montserrat-Light.ttf": "/twcSS/static/media/Montserrat-Light.100b38fa.ttf",
-    "static/media/Montserrat-SemiBold.ttf": "/twcSS/static/media/Montserrat-SemiBold.c88cecbf.ttf",
-    "static/media/alarmButtonSet.scss": "/twcSS/static/media/bell.b4328ea1.svg",
-    "static/media/facebook.svg": "/twcSS/static/media/facebook.c509a4c4.svg",
-    "static/media/instagram.svg": "/twcSS/static/media/instagram.9ffb9642.svg",
-    "static/media/linkedin-sales-navigator-S7qx--tDxAA-unsplash.jpg": "/twcSS/static/media/linkedin-sales-navigator-S7qx--tDxAA-unsplash.f242caed.jpg",
-    "static/media/procreator-ux-design-studio-VzJjPuk53sk-unsplash.png": "/twcSS/static/media/procreator-ux-design-studio-VzJjPuk53sk-unsplash.3e2ed203.png",
-    "static/media/salesuite-mobile.svg": "/twcSS/static/media/salesuite-mobile.2f611fe1.svg",
-    "static/media/sonnie-hiles-yIej4tFKYJA-unsplash@2x.png": "/twcSS/static/media/sonnie-hiles-yIej4tFKYJA-unsplash@2x.3c626d6e.png",
-    "static/media/twitter.svg": "/twcSS/static/media/twitter.a57ea219.svg",
-    "static/media/whatsapp.svg": "/twcSS/static/media/whatsapp.7c0a8ae1.svg"
+    "static/js/2.07ac56d2.chunk.js.LICENSE.txt": "/twcSS/static/js/2.07ac56d2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5c0ef560.js",
-    "static/js/2.1332e454.chunk.js",
-    "static/css/main.a933e099.chunk.css",
-    "static/js/main.9a830cea.chunk.js"
+    "static/js/2.07ac56d2.chunk.js",
+    "static/js/main.dff9d33c.chunk.js"
   ]
 }
